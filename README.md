@@ -1,4 +1,23 @@
-***#介绍***
-在今年苹果发布了macos26，但在这个版本苹果去掉了启动台，这导致有些人并不能成功适应新的聚焦搜索，所以我制作了这个程序来模拟启动台，让更多人可以使用*虽然这个的UI并不好*。
-***#README***
-This year, Apple released macOS 26, but in this version, Apple removed the launcher, which made it difficult for some people to adapt to the new focus search. Therefore, I created this program to simulate the launcher so that more people can use it, *although the UI is not good*.
+# LaunchpadReplacement
+
+This project simulates the macOS Launchpad for users of macOS 26 and later, where Apple has removed the original Launchpad feature. LaunchpadReplacement provides a familiar app grid interface, making it easy to view and launch installed applications.
+
+## Features
+
+- Classic Launchpad-style app grid
+- Quick launch for installed applications
+- Simple and familiar UI
+- Compatible with macOS 26 and later
+
+## Usage
+
+1. Download the source code or installer.
+2. Open LaunchpadReplacement.
+3. Use the app grid to launch your applications.
+
+## Contribution & Support
+
+Suggestions, issues, and pull requests are welcome!
+
+- Author: [charlie66774094](https://github.com/charlie66774094)
+- Email: charlie02102022@163.com
